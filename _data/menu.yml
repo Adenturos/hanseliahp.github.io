@@ -2,21 +2,21 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Judul
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
+      - title: Halo, Apa Kabar?
+      - title: Coba doang
+        url: https://hanseliahp.github.io
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: Semua Postingan
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Lihat Arsip...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: Postingan Berdasarkan Kategori
     post_list:
       category: example2
       show_more: true
