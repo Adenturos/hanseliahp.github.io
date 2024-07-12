@@ -17,7 +17,7 @@ entries:
       show_more_text: Lihat lainnya...
       show_more_url: archive.html
 
-  - title: Postingan Berdasarkan Kategori:
+  - title: Postingan Berdasarkan Kategori
     entries:
     - title: Sekolah
       post_list:
