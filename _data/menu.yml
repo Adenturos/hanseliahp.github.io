@@ -2,36 +2,36 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Judul
+  - title: Selamat Datang di Blog Saya!
     entries:
-      - title: Halo, Apa Kabar?
-      - title: Coba doang
+      - title: Apa Kabar?
+      - title: https://hanseliahp.github.io/judul
         url: https://hanseliahp.github.io/judul
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Tentang Penulis
+        url: about
 
   - title: Semua Postingan
     post_list:
-      limit: 5
+      limit: 10
       show_more: true
-      show_more_text: Lihat Arsip...
+      show_more_text: Lihat lainnya...
       show_more_url: archive.html
 
-  - title: Postingan Berdasarkan Kategori
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: Postingan Berdasarkan Kategori:
+    entries:
+    - title: Sekolah
+      post_list:
+        category: sekolah
+        list: 3
+        show_more: true
+        show_more_text: Lihat lainnya...
+        show_more_url: example2-archive.html
+    - title: example2
+      post_list:
+        category: example2
+        list: 3
+        show_more: true
+        show_more_text: Lihat lainnya...
+        show_more_url: sekolah-archive.html
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
-  - title: rss
-    url: feed.xml
+  - title: 

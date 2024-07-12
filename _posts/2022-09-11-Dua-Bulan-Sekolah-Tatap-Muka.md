@@ -1,6 +1,7 @@
 ---
 layout: post
 custom_js: Sekolah_Lagi
+category: sekolah
 ---
 
 # Dua Bulan Sekolah Tatap Muka
