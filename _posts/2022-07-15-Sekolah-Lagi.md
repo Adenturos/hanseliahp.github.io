@@ -1,8 +1,8 @@
 ---
 layout: post
-custom_js: Sekolah...._Lagi
+custom_js: Sekolah_Lagi
 ---
-
+---
 # Sekolah Lagi
 #### 15 Juli 2024
 
