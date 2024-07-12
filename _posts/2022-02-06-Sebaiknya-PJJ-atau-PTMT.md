@@ -3,7 +3,7 @@ layout: post
 custom_js: Sebaiknya_PJJ_atau_PTMT?
 ---
 
-## Sebaiknya PJJ atau PTMT?
+# Sebaiknya PJJ atau PTMT?
 #### 6 Februari 2022
 
 Akhir - akhir ini, kita melihat bahwa kasus Kovid-19 mulai meningkat. Misalnya saja Di Jakarta, sudah banyak sekolah yang kembali ke pembelajaran jarak jauh karena ada siswa yang terjangkit Kovid-19. Namun, Virus Kovid-19 ini tidaklah seperti virus Kovid yang pertama muncul di Wuhan, Cina. Virus ini sudah bermutasi menjadi jenis varian Virus kovid yang baru. 
