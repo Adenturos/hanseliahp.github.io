@@ -12,7 +12,7 @@ entries:
 
   - title: Semua Postingan
     post_list:
-      limit: 10
+      limit: 3
       show_more: true
       show_more_text: Lihat lainnya...
       show_more_url: archive.html
