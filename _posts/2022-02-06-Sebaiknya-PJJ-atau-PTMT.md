@@ -1,7 +1,7 @@
 ---
 layout: post
 custom_js: Sebaiknya_PJJ_atau_PTMT?
-category: sekolah
+category: opini
 ---
 
 # Sebaiknya PJJ atau PTMT?

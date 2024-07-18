@@ -1,26 +1,22 @@
 ---
 layout: post
 custom_js: Sekolah_Lagi
-category: sekolah
+category: pribadi
 ---
 
 # Dua Bulan Sekolah Tatap Muka
 #### 11 September 2022
 
-"Libur telah usai, Saatnya sekolahh!".Horee sekolah.... Bangun pagi lagi.... Rasanya bangun pagi itu... behhhh ngantuk banget. Apalagi bangun jam setengah 5 pagi. Wehh ngantuk. Tapi ya mau bagaimana lagi? Harus bangun pagi supaya aku tidak terlambat untuk sekolah. Kasus Kovid-19 akhir - akhir ini 0. Jadi pemerintah kota mengizinkan sekolah untuk PTM 100%. Dengan kata lain, sekolah online ditiadakan. Semua anak wajib berangkat sekolah. Jadi ya harus berangkat
+"Andaikan pandemi masih berlangsung, pasti aku tidak harus merasakan lelahnya sekolah tatap muka." Itulah yang ada di pikiranku saat aku berada di sekolah. Siang hari memang cocok untuk tidur siang. Namun, kita dipaksa untuk mencerna pelajaran yang guru kami beri. Ya, memang begitulah anak sekolah. Meski dianggap enak karena tidak harus bekerja mencari uang, namun, kenyataannya tidak seperti itu.
 
-Sekolah akan terasa menyenangkan jika anda menikmatinya. Ya kalau saya sih gak menikmati sama sekali. Tiap hari datang ke sekolah hanya untuk mendengarkan guru menerangkan sesuatu yang tidak bisa menerangiku sama sekali. Ya mau tidak mau harus memahami pelajaran yang mereka beri kepada kita. Karena kalau tidak, nilai saya akan anjlok. Kalau hal itu terjadi, ya tidak bisa mengulang lagi. Yang terjadi, terjadilah. 
+Ya, secara pribadi, setelah sekian lama sekolah online, saya menjadi tidak terbiasa dengan sekolah tatap muka. Saya harus bangun pagi dan pulang sore setiap hari. Belum ditambah dengan tugas rumah dan ulangan harian. Rasanya memang melelahkan. Namun, ini adalah salah satu cara agar saya mendapatkan pekerjaan yang layak setelah saya lulus nanti. Namun sebenarnya, itu semua tergantung pada pribadi masing - masing.
 
-Selain dari pelajarannya yang menyusahkan, waktu disekolah pun juga lama. Kita harus terbiasa dengan 8 jam disekolah. Karena banyak pelajaran yang harus kita serap dalam sehari. Dan itu pun secara repetitif atau berulang kali. Biasanya pada hari senin hingga kamis. Hari jumat dan sabtu biasanya pulang lebih awal. Itupun kalau tidak ada pramuka atau ekstrakurikuler lainnya yang anda ikuti. Pokoknya anda harus tahan.
+Di tengah lelahnya sekolah, saya teringat masa ketika saya masih SMP. Dimana saya tidak harus berangkat ke sekolah untuk menimba ilmu. Cukup menggunakan gadget untuk mengikuti pelajaran pada hari itu. Dan ketika kasus Covid-19 sudah mereda, saya hanya sekolah dari pukul 7 pagi hingga 10 pagi. Masa - masa itu, menurut pribadi, menyenangkan. Begitu enaknya saya hanya sekolah sebentar. 
 
-Namun, apakah dengan hal - hal menantang seperti itu saya ingin keluar dari sekolah? Tentu tidak. Meski tantangannya banyak, namun tidak ada yang namanya hal mustahil dalam mencapai cita - cita. Cita - citaku ya ingin menjadi orang yang sukses. Jadi saya tetap bersemangat untuk sekolah. Ya, mungkin pelajarannya menyusahkan. Kadang saya tidak paham dengan apa yang guru ajarkan. Namun, bukan berarti saya hanya bisa pasrah. Saya pun bertanya pada guru, teman atau mencari tahu di internet. Zaman sekarang udah bisa belajar pakai internet. Jadi ya manfaatkanlah hal itu.
+Namun, pembelajaran jarak jauh banyak kekurangannya. Pertama - tama, tidak semua siswa memiliki gadget. Karena mungkin masalah ekonomi atau memang pada waktu itu tidak perlu gadget. Yang kedua ialah kita tidak mempelajari apa - apa. Secara pribadi, saya mengalami penurunan nilai yang sangat tampak. Karena, sekolah online membuat saya malas belajar. Bahkan, teman - teman saya berkata demikian. Dan masih banyak lagi kekurangan sekolah online yang tidak saya sebutkan.
 
-Selain dari mencapai cita - cita, sekolah bisa dijadikan sarana untuk bergaul. Anda bisa berteman dengan banyak orang disekolah. Karena di dunia ini, tidak ada manusia yang bisa hidup sendiri. Jadi ya bergaullah. Jangan sembarang bergaul. Karena lingkungan sekitar bisa mempengaruhimu. Bukan berarti saya meminta anda untuk memilih - milih dalam berteman. Namun, carilah pergaulan yang sehat. Yang bisa memotivasimu untuk menjadi lebih baik.
+Saya memang rindu masa - masa sekolah online. Karena saya tidak merasakan lelah berat. Tapi, sekolah tatap muka membuat saya lebih memahami pelajaran yang guru kami sampaikan. Juga, saya bisa mengenal teman sekelasku. Hal yang tidak aku rasakan ketika saya masih sekolah online.
 
-Kesimpulannya, tidak ada yang mudah didunia ini. Namun, tidak ada yang mustahil juga didunia ini. Bekerja keraslah. Namun jangan terlalu keras. karena jika bekerja terlalu keras tidak lah baik untuk kesehatan. 
-
-Perjuanganmu hari ini, tidak sebanding dengan penyesalanmu dihari esok.
  
 
-Semangatl!
 

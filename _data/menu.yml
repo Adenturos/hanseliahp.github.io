@@ -19,19 +19,19 @@ entries:
 
   - title: Postingan Berdasarkan Kategori
     entries:
-    - title: Sekolah
+    - title: Pribadi
       post_list:
-        category: sekolah
+        category: pribadi
         list: 3
         show_more: true
         show_more_text: Lihat lainnya...
-        show_more_url: example2-archive.html
-    - title: example2
+        show_more_url: pribadi-archive.html
+    - title: Opini
       post_list:
-        category: example2
+        category: opini
         list: 3
         show_more: true
         show_more_text: Lihat lainnya...
-        show_more_url: sekolah-archive.html
+        show_more_url: opini-archive.html
   
   - title: 
