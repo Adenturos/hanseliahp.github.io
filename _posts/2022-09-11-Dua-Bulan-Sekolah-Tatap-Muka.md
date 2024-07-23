@@ -1,6 +1,6 @@
 ---
 layout: post
-custom_js: Sekolah_Lagi
+custom_js: Dua_Bulan_Sekolah_Tatap_Muka
 category: pribadi
 ---
 

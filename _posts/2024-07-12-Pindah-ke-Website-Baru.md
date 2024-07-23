@@ -1,10 +1,10 @@
 ---
 layout: post
-custom_js: Pindah
+custom_js: Pindah_ke_Website_Baru
 category: lainnya
 ---
 
-# Pindah ke Website baru
+#### 12 Juli 2024
 
 Halo, apa kabar?
 
