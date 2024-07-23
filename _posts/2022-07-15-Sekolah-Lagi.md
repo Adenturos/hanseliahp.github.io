@@ -4,7 +4,6 @@ custom_js: Sekolah_Lagi
 category: pribadi
 ---
 
-# Sekolah Lagi
 #### 15 Juli 2022
 
 "Libur telah usai, Saatnya sekolahh!". Horee sekolah.... Bangun pagi lagi.... Rasanya bangun pagi itu... behhhh ngantuk banget. Apalagi bangun jam setengah 5 pagi. Wehh ngantuk. Tapi ya mau bagaimana lagi? Harus bangun pagi supaya aku tidak terlambat untuk sekolah. Kasus Kovid-19 akhir - akhir ini 0. Jadi pemerintah kota mengizinkan sekolah untuk PTM 100%. Dengan kata lain, sekolah online ditiadakan. Semua anak wajib berangkat sekolah. Jadi ya harus berangkat

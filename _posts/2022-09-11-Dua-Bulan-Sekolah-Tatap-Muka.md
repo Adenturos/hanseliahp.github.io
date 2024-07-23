@@ -4,7 +4,6 @@ custom_js: Dua_Bulan_Sekolah_Tatap_Muka
 category: pribadi
 ---
 
-# Dua Bulan Sekolah Tatap Muka
 #### 11 September 2022
 
 "Andaikan pandemi masih berlangsung, pasti aku tidak harus merasakan lelahnya sekolah tatap muka." Itulah yang ada di pikiranku saat aku berada di sekolah. Siang hari memang cocok untuk tidur siang. Namun, kita dipaksa untuk mencerna pelajaran yang guru kami beri. Ya, memang begitulah anak sekolah. Meski dianggap enak karena tidak harus bekerja mencari uang, namun, kenyataannya tidak seperti itu.
