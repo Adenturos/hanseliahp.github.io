@@ -33,3 +33,6 @@ entries:
         show_more: true
         show_more_text: Lihat lainnya...
         show_more_url: opini-archive.html
+  
+  - title: Spoiler!
+    url: spoiler
