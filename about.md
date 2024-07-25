@@ -5,13 +5,9 @@ title: Tentang
 
 # Siapakah saya?
 
-Pemilik Blog: Elia Hans
-
-Lokasi Tinggal: Jawa Tengah, Indonesia
-
-Pekerjaan: Masih bersekolah, bangku SMA
-
-Umur: 16 (menuju 17)
+- Pemilik Blog: Elia Hans
+- Pekerjaan: Bersekolah di bangku SMA
+- Umur: 16 (Menuju 17)
 
 # Media Sosial
 - [Instagram: @hanseliahp_](https://www.instagram.com/hanseliahp_/)
