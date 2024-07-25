@@ -11,8 +11,8 @@ title: Tentang
 
 # Media Sosial
 - [Instagram: @hanseliahp_](https://www.instagram.com/hanseliahp_/)
-- Twitter: -
-- Youtube: -
-- Threads: @hanseliahp_ (Belum diberi link direct)
+- [Twitter: @hanseliahp_](https://x.com/hanseliahp_)
+- [Youtube: Elia Hans](https://www.youtube.com/channel/UC8-Yrwqx5bv8DUA4afsVyPw)
+- [Threads: @hanseliahp_](https://www.threads.net/@hanseliahp_?hl=zh-tw)
 
 bye
